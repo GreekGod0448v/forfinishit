@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 
 # ajab
-# forfinishit
 # ok 
 
-# merge  eeeeee  bbbbbb 
+# merge  eeeeee  bbb
+# forfinishit 
