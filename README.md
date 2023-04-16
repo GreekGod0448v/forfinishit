@@ -1,2 +1,7 @@
-# forfinishit 
+<<<<<<< HEAD
+
+# ajab
+# forfinishit
 # ok 
+
+# merge conflicts 
